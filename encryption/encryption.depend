@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469379643 source:/home/lado/Dropbox/codeblocks c++/encryption/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<string>
+	<cctype>
+
